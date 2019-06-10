@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+
+
+  <head>
+     <title>✫Mourad Boucetta</title>
+      </tr>
+      <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+     <title>✫Mourad Boucetta</title>
+      <link rel="stylesheet" href="css/CSS Styles.css">
+       </head><body><hr>
+
+       <meta http-equiv="content-type" content="text/html;charset=utf-8">
+       <meta name="generator" content="Geany 1.33">
+       <link rel="icon" href="CSS/CSS favicon.ico" <link="">
+       <link href="https://fonts.googleapis.com/css?family=Merriweather|Montserrat|Sacramento&amp;display=swap" rel="stylesheet">
+       <link rel="stylesheet" href="CSS/CSS Styles.css">
+
+
+
+
+
+
+
+   <div class="top-container">
+          <h1 style="padding-left: 575px;padding-right: 575px;">I'm Mourad </h1>
+          <p style="padding-left: 575px;padding-right: 575px;">a Front-end Web Developer</p>
+          <hr>
+          <img src="images/avatar.png" <="" div="" style="padding-left: 575px;padding-right: 575px;">
+   </div>
+
+   <div class="middle-container" <h2="">
+               <img src="images/mountain.png" <="" div="" style="padding-left: 10px;padding-right: 10px;height: 655.917px;width: 1255px;padding-bottom: 15px;padding-top: 155px;">
+   </div>
+
+   <div class="botton-container" <h3="">
+              <img src="" <="" div="">
+
+
+
+
+html body div.top-container h1
+.top-container &gt; h1:nth-child(1)
+<h1 style="padding-left: 575px;padding-right: 575px;">I'm Mourad </h1>
+<img src="images/avatar.png" <="" div="" style="padding-left: 575px;padding-right: 575px;">
+<img src="images/mountain.png" <="" div="" style="padding-left: 10px;padding-right: 10px;height: 655.917px;width: 1255px;padding-bottom: 15px;padding-top: 155px;">
+<p style="padding-left: 575px;padding-right: 575px;">a Front-end Web Developer</p>
+</div></body><style type="text/css"></style></html>

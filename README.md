@@ -1,4 +1,4 @@
-# Hello, I'm a Junior Front-End Developer
+# Hello, I'm a Junior Developer
 I live in France ---
 I'm learning to code ---
 I only start ---
